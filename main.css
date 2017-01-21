@@ -1,0 +1,59 @@
+body {
+	background-color: #141f1f;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+
+article {
+	margin-bottom: 20px;
+	padding-left: 10px;
+}
+
+.article1 {
+	border: 2px solid grey;
+	border-radius: 10px;
+}
+
+.article2 {
+	border: 2px solid grey;
+	border-radius: 3px;
+}
+
+.article3 {
+	border: 2px solid grey;
+	border-radius: 25px;
+}
+
+.article4 {
+	border: 2px solid grey;
+	border-radius: 15px;
+}
+
+.article5 {
+	border: 2px solid grey;
+	border-radius: 1px;
+}
+
+h1, h2, h5 {
+	font-family: 'Rock Salt', cursive;
+	color: white;
+	margin-top: -10px;
+}
+
+h5 {
+	margin-top: -25px;
+}
+
+section {
+	font-family: 'Average Sans', sans-serif;
+	color: white;
+	line-height: 1.5em;
+	margin-top: -25px;
+}
+
+footer {
+	font-family: 'Rock Salt', cursive;
+	color: white;
+	font-size: .75em;
+	padding-top: 10px;
+}
