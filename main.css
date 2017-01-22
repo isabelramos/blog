@@ -12,26 +12,32 @@ article {
 .article1 {
 	border: 2px solid grey;
 	border-radius: 10px;
+	background-color: #303030;
 }
 
 .article2 {
 	border: 2px solid grey;
 	border-radius: 3px;
+	background-color: #5b5b5b;
 }
 
 .article3 {
-	border: 2px solid grey;
+	border: 2px solid #b7b7b7;
 	border-radius: 25px;
+	background-color: #878787;
 }
 
 .article4 {
 	border: 2px solid grey;
 	border-radius: 15px;
+	background-color: #b7b7b7;
 }
 
 .article5 {
 	border: 2px solid grey;
 	border-radius: 1px;
+	background-color: black;
+	padding-bottom: 10px;
 }
 
 h1, h2, h5 {
@@ -45,11 +51,45 @@ h5 {
 }
 
 section {
-	font-family: 'Average Sans', sans-serif;
-	color: white;
-	line-height: 1.5em;
 	margin-top: -25px;
 }
+
+.section1 {
+	font-family: 'Average Sans', sans-serif;
+	color: #b7b7b7;
+	line-height: 1.5em;
+}
+
+.section2 {
+	font-family: Courier, monospace;
+	font-size: .75em;
+	color: #303030;
+	line-height: 2em;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.section3 {
+	font-family: Helvetica, sans-serif;
+	font-size: 1.5em;
+	color: #b7b7b7;
+	line-height: 1.25em;
+}
+
+.section4 {
+	font-family: Garamond, serif;
+	font-size: 1.25em;
+	color: #303030;
+	line-height: 1.65em;
+}
+
+.section5 {
+	font-family: Arial, sans-serif;
+	font-size: 2em;
+	color: white;
+	line-height: 2em;
+}
+
 
 footer {
 	font-family: 'Rock Salt', cursive;
